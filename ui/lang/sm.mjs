@@ -19,7 +19,7 @@ export default {
   date: {
     days: 'Aso Sā_Aso Gafua_Aso Lua_Aso Lulu_Aso Tofi_Aso Faraile_Aso To\'onai'.split('_'),
     daysShort: 'Sā_Gaf_Lua_Lul_Tof_Far_Too'.split('_'),
-    months: 'Ianuari_Fepuari_Mati_\'Aperila_Mē_Iuni_Iulai_\'Aokuso_Sētema_\'Oketopa_Nōvema_Tēsema'.split('_'),
+    months: 'Ianuari_Fepuari_Mati_\'Aperila_Mē_Iuni_Iulai_\'Aukuso_Sētema_\'Oketopa_Nōvema_Tēsema'.split('_'),
     monthsShort: 'Ian_Fep_Mat_Ape_Mē_Iun_Iul_Auk_Sēt_Oke_Nōv_Tēs'.split('_'),
     firstDayOfWeek: 1, // 0-6, 0 - Sunday, 1 Monday, ...
     format24h: false,
